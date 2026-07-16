@@ -1,0 +1,15 @@
+STUDENT ATTENDANCE MANAGEMENT SYSTEM
+
+Course: BEE 208
+Date: 10-07-26
+
+Student Name             Index Number   Status
+Henry Tetteh             01246479B      P
+EHUREN HENRY             01243785B      P
+DENNIS OBENG             012433475B     A
+
+Total Students: 3
+Present: 2
+Absent: 1
+Attendance Percentage: 66.67%
+Class Attendance Status: Moderate class attendance
