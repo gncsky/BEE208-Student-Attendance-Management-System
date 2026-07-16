@@ -1,27 +1,25 @@
-#
-
-Student Attendance Management System
+# Student Attendance Management System
 
  Group Members
-# LOLIGODFRED – 01245009B – Project Lead
-# CLEMENT TETTEH –01246456B– Algorithm Writer
-# ATTAH EMMANUEL MAWUENA – 01245482B – Pseudocode Writer
-# NTIAMOAH CALEB KONADU– 01243401B – Flowchart Designer
-# NEQSON-CARTEY GORDON SKYLO -01242530B– C++ Programmer
- # EHUREN HENRY- 01243785B – C++ Programmer
-# Henry Tetteh – 01246479B – Testing Lead
+ LOLIGODFRED – 01245009B – Project Lead
+ CLEMENT TETTEH –01246456B– Algorithm Writer
+ ATTAH EMMANUEL MAWUENA – 01245482B – Pseudocode Writer
+ NTIAMOAH CALEB KONADU– 01243401B – Flowchart Designer
+ NEQSON-CARTEY GORDON SKYLO -01242530B– C++ Programmer
+  EHUREN HENRY- 01243785B – C++ Programmer
+ Henry Tetteh – 01246479B – Testing Lead
 - Student 8 – Index Number – GitHub Manager
 - Student 9 – Index Number – Documentation Lead
-# DENNIS OBENG  – 012433475B – Presentation Lead
+ DENNIS OBENG  – 012433475B – Presentation Lead
 
- Problem Statement
+ # Problem Statement
 Manual attendance records are prone to errors, delays, and difficulty in analysis.
 This project solves the problem by creating a simple C++ program that records attendance, calculates statistics, and generates a report.
 
- Aim
+ # Aim
 To design and implement a Student Attendance Management System in C++ that records attendance, calculates statistics, classifies performance, and saves results into a text file.
 
- Objectives
+# Objectives
 - Record student attendance for a class session.
 - Accept student name, index number, and attendance status (P/A).
 - Count present and absent students.
@@ -30,7 +28,7 @@ To design and implement a Student Attendance Management System in C++ that recor
 - Generate and save a report (`attendance_report.txt`).
 - Document project in Markdown and submit via GitHub.
 
-How the System Works
+# How the System Works
 1. User enters course name, date, and number of students.
 2. For each student, the program records name, index number, and attendance status.
 3. Attendance status is validated (only P or A allowed).
@@ -39,7 +37,7 @@ How the System Works
 6. Class performance is classified (Good, Moderate, Poor).
 7. Report is displayed and saved to `attendance_report.txt`.
 
-Algorithm Summary
+# Algorithm Summary
 Start the program.
 Display the system title
 Input course details.
@@ -53,7 +51,7 @@ Display attendance summary:
 Save report
 End the program.
 
-BEGIN
+# BEGIN
     DISPLAY "Student Attendance Management System"
 
     INPUT courseName
