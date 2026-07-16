@@ -2,14 +2,23 @@
 
  Group Members
  LOLIGODFRED – 01245009B – Project Lead
+ 
  CLEMENT TETTEH –01246456B– Algorithm Writer
+ 
  ATTAH EMMANUEL MAWUENA – 01245482B – Pseudocode Writer
+ 
  NTIAMOAH CALEB KONADU– 01243401B – Flowchart Designer
+ 
  NEQSON-CARTEY GORDON SKYLO -01242530B– C++ Programmer
+ 
   EHUREN HENRY- 01243785B – C++ Programmer
+ 
  Henry Tetteh – 01246479B – Testing Lead
+
 - Student 8 – Index Number – GitHub Manager
+
 - Student 9 – Index Number – Documentation Lead
+
  DENNIS OBENG  – 012433475B – Presentation Lead
 
  # Problem Statement
