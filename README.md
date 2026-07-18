@@ -1,7 +1,8 @@
 # Student Attendance Management System
 
  Group Members
- LOLIGODFRED – 01245009B – Project Lead
+ 
+ LOLI GODFRED – 01245009B – Project Lead
  
  CLEMENT TETTEH –01246456B– Algorithm Writer
  
